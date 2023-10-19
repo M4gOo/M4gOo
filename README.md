@@ -2,7 +2,8 @@
   
 <h2>🔒💻 Cyber Security Projects 💻🔒</h2>
 
-<h3> under construction 
+- <b> Threat Landscape </b>
+  - [Report](https://github.com/M4gOo/PROJECTS/blob/developer-roadmap/Explaining%20the%20threat%20landscape%20REPORT)
     
 
 
