@@ -2,8 +2,8 @@
   
 <h2>🔒💻 Cyber Security Projects 💻🔒</h2>
 
-- <b> Threat Landscape </b>
-  - [Report](https://github.com/M4gOo/PROJECTS/blob/developer-roadmap/Explaining%20the%20threat%20landscape%20REPORT)
+- [Configure secure access to your workloads using Azure networking](https://github.com/M4gOo/PROJECTS/tree/developer-roadmap/Configure%20secure%20access%20to%20workloads%20with%20Azure%20virtual%20networking%20services#readme)
+
     
 
 
